@@ -1,0 +1,2 @@
+# saspy
+I  have worked a lot with SAS in my small career in Data Science, the ease with which it provides the analysis and results always amazes me.The cost of the software has kept the advanced analytics still out of reach for many people. Current python libraries have a more technical approach to them,therefore, often analysts needs to spend a ton of time building up the code before they can get results for basic analysis. Through this library i am trying to make my life easy by building few modules which i use regularly. Feel free to add on to this. 
